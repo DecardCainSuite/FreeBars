@@ -1,7 +1,7 @@
 <p align="center"><img src="curseforge/images/FreeBars-logo-400.png" width="120" alt="Free Bars logo"></p>
 <h1 align="center">Free Bars</h1>
 <p align="center">Up to 9 action bars, laid out as a grid or an arc, with mouseover fade, paging and a clean flat look.</p>
-<p align="center"><a href="https://www.curseforge.com/wow/addons/freebars"><b>Download on CurseForge</b></a> · version <b>1.4.1</b> · WoW Forever (1.60.1) · <code>/fb</code></p>
+<p align="center"><a href="https://www.curseforge.com/wow/addons/freebars"><b>Download on CurseForge</b></a> · version <b>1.4.2</b> · WoW Forever (1.60.1) · <code>/fb</code></p>
 
 ![Free Bars](curseforge/images/fb_1.png)
 

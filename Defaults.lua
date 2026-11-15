@@ -40,9 +40,9 @@ FreeBarsDB = {
 					["alpha"] = 1,
 					["hotkey"] = true,
 					["pos"] = {
-						"BOTTOM",
+						"CENTER",
 						0,
-						238,
+						-273,
 					},
 				},
 				{
@@ -70,9 +70,9 @@ FreeBarsDB = {
 					["alpha"] = 1,
 					["hotkey"] = true,
 					["pos"] = {
-						"BOTTOM",
+						"CENTER",
 						0,
-						208,
+						-303,
 					},
 				},
 				{
@@ -100,9 +100,9 @@ FreeBarsDB = {
 					["alpha"] = 1,
 					["hotkey"] = true,
 					["pos"] = {
-						"BOTTOM",
+						"CENTER",
 						0,
-						178,
+						-333,
 					},
 				},
 				{
@@ -130,9 +130,9 @@ FreeBarsDB = {
 					["alpha"] = 1,
 					["hotkey"] = true,
 					["pos"] = {
-						"RIGHT",
-						-1854,
-						-393,
+						"CENTER",
+						656,
+						-203,
 					},
 				},
 				{
@@ -160,9 +160,9 @@ FreeBarsDB = {
 					["alpha"] = 1,
 					["hotkey"] = true,
 					["pos"] = {
-						"RIGHT",
-						-2321,
-						-393,
+						"CENTER",
+						189,
+						-203,
 					},
 				},
 				{
@@ -190,9 +190,9 @@ FreeBarsDB = {
 					["alpha"] = 1,
 					["hotkey"] = true,
 					["pos"] = {
-						"BOTTOM",
+						"CENTER",
 						233,
-						0,
+						-464,
 					},
 				},
 			},

@@ -3,7 +3,7 @@
 ## Notes: Action bars: any number of buttons, rows, size, spacing, growth, mouseover fade, and arc-of-a-circle layouts. /fb
 ## Category: Action Bars
 ## Author: DecardCain
-## Version: 1.4.1
+## Version: 1.4.2
 ## X-Curse-Project-ID: 1798501
 ## IconTexture: Interface\AddOns\FreeBars\Media\icon
 ## OptionalDeps: FreeHub, LibSharedMedia-3.0, Masque, SharedMediaAdditionalFonts
