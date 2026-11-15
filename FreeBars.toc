@@ -1,0 +1,24 @@
+## Interface: 16001
+## Title: Free Bars
+## Notes: Action bars: any number of buttons, rows, size, spacing, growth, mouseover fade, and arc-of-a-circle layouts. /fb
+## Category: Action Bars
+## Author: DecardCain
+## Version: 1.4.1
+## IconTexture: Interface\AddOns\FreeBars\Media\icon
+## OptionalDeps: FreeHub, LibSharedMedia-3.0, Masque, SharedMediaAdditionalFonts
+## SavedVariables: FreeBarsDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+Libs\LibFreeProfiles-1.0\LibFreeProfiles-1.0.lua
+Libs\LibFreeMedia-1.0\LibFreeMedia-1.0.lua
+Libs\LibFreeGrid-1.0\LibFreeGrid-1.0.lua
+Libs\LibFreeUI-1.0\LibFreeUI-1.0.lua
+Libs\LibActionButton-1.0-Free\LibActionButton-1.0-Free.lua
+
+Defaults.lua
+Core.lua
+Config.lua
+Minimap.lua

@@ -1,0 +1,4 @@
+package-as: FreeBars
+
+ignore:
+  - README.md
