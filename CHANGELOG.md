@@ -1,3 +1,3 @@
-## Free Bars 1.4.1
+## Free Bars 1.4.2
 
-- Version 1.4.1, as published on CurseForge.
+- Shared interface library updated (scroll bar and check boxes in drop-down lists). No other change.
